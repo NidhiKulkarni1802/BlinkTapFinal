@@ -1,0 +1,85 @@
+{
+  "_comment": "Custom daily-care messages. Patterns use '.' for a short blink/tap and '-' for a long blink/tap. They are project-defined shortcuts, not International Morse.",
+  "messages": [
+    {
+      "pattern": ".",
+      "message": "Yes, please."
+    },
+    {
+      "pattern": "-",
+      "message": "No, thank you."
+    },
+    {
+      "pattern": "...",
+      "message": "I need help."
+    },
+    {
+      "pattern": ".-.",
+      "message": "I am in pain."
+    },
+    {
+      "pattern": ".--",
+      "message": "I need water."
+    },
+    {
+      "pattern": "-.",
+      "message": "I need food."
+    },
+    {
+      "pattern": "---",
+      "message": "I need the toilet."
+    },
+    {
+      "pattern": "-..",
+      "message": "Please change my position."
+    },
+    {
+      "pattern": "..--",
+      "message": "I am too hot."
+    },
+    {
+      "pattern": "..-.",
+      "message": "I am too cold."
+    },
+    {
+      "pattern": "..-",
+      "message": "I am uncomfortable."
+    },
+    {
+      "pattern": "-.-.",
+      "message": "I need my medication."
+    },
+    {
+      "pattern": ".--.",
+      "message": "Please call the nurse."
+    },
+    {
+      "pattern": ".---",
+      "message": "Please call my family."
+    },
+    {
+      "pattern": "...-",
+      "message": "I am having trouble breathing."
+    },
+    {
+      "pattern": "..",
+      "message": "Please wait."
+    },
+    {
+      "pattern": ".-",
+      "message": "I need to rest."
+    },
+    {
+      "pattern": "--.",
+      "message": "Thank you."
+    },
+    {
+      "pattern": "-.-",
+      "message": "Please repeat that."
+    },
+    {
+      "pattern": "--",
+      "message": "I am okay."
+    }
+  ]
+}

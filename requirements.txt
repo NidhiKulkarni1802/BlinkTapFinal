@@ -1,0 +1,10 @@
+# Same libraries the project already used - nothing new was added.
+opencv-python
+mediapipe
+numpy
+pandas
+scikit-learn
+joblib
+pyttsx3
+# Windows only (better text-to-speech reliability, optional):
+# pywin32

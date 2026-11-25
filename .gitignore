@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated local files
+settings.json
+calibration_profile.json
+blink_model.pkl
+
+# Optional Gmail configuration/secrets
+gmail_alert.py
+gmail_alert.json
+.env
